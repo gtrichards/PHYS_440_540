@@ -37,7 +37,7 @@ setup_text_plots(fontsize=8, usetex=True)
 N = [2, 3, 10]
 
 np.random.seed(42)
-x = np.random.random((max(N), 1E6))
+x = np.random.random((max(N), int(1E6)))
 
 #------------------------------------------------------------
 # Plot the results
