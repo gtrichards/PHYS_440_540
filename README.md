@@ -1,6 +1,6 @@
 # PHYS_440_540
 
-This is the repository for PHYS 440/540 "Big Data Physics: Methods of Machine Learning" at Drexel University, taught by Prof. Gordon Richards.  The course syllabus can be found at http://www.physics.drexel.edu/~gtr/teaching/phys440_540/
+This is the repository for PHYS 440/540 "Big Data Physics: Methods of Machine Learning" at Drexel University, taught by Prof. Gordon Richards.  The course syllabus can be found at http://www.physics.drexel.edu/~gtr/teaching/phys_440_540/
 
 The course is a series of jupyter notebooks, building on previous versions of this course (https://github.com/gtrichards/PHYS_T480_F18 and https://github.com/gtrichards/PHYS_T480), where I have drawn heavily from resources from the following people/places:
 
