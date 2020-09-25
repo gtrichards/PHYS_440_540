@@ -29,7 +29,8 @@ from scipy.stats import norm
 # Note that with usetex=True, fonts are rendered with LaTeX.  This may
 # result in an error if LaTeX is not installed on your system.  In that case,
 # you can set usetex to False.
-from astroML.plotting import setup_text_plots
+if "setup_text_plots" not in globals():
+    from astroML.plotting import setup_text_plots
 setup_text_plots(fontsize=8, usetex=True)
 
 #------------------------------------------------------------
@@ -52,7 +53,7 @@ for i in range(len(N)):
 
     # histogram the data
     ax.hist(x_i, bins=np.linspace(0, 1, 101),
-            histtype='stepfilled', alpha=0.5, normed=True)
+            histtype='stepfilled', alpha=0.5, density=True)
 
     # plot the expected gaussian pdf
     mu = 0.5
