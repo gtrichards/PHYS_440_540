@@ -12,7 +12,7 @@ Aurelien Geron's book: https://www.amazon.com/Hands-Machine-Learning-Scikit-Lear
 
 Andy Connolly (University of Washington), particularly http://cadence.lsst.org/introAstroML/
 
-Karen Leighly (University of Oklahoma), particularly http://http://seminar.ouml.org/
+Karen Leighly (University of Oklahoma), particularly http://seminar.ouml.org/
 
 Adam Miller (Northwestern University), particularly https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/
 
