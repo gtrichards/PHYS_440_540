@@ -22,6 +22,8 @@ Thomas Wiecki, particularly http://twiecki.github.io/blog/2015/11/10/mcmc-sampli
 
 My thanks also to Maher Harb (Drexel University), Liam Coatman (Cambridge), Nathalie Thibert (UWO), and Kevin Footer (Deloitte).
 
+I also acknowledge updates to my own class from [Stephen Taylor's class at Vanderbilt](https://github.com/VanderbiltAstronomy/astr_8070_s21).
+
 I have tried to be careful about properly attributing anything drawn from these resources, but if it isn't clear where something comes from, it is probably there.
 Others are welcome to draw from here for their own Machine Learning courses.  Please send any corrections to gtr@physics.drexel.edu.
 
@@ -29,17 +31,18 @@ If you have any interest in using these materials for your own Machine Learning 
 
 ## Schedule
 
-Lecture 1 (9/21): Motivation.ipynb and InitialSetup.ipynb
+Lecture 1 (9/19): Motivation.ipynb and InitialSetup.ipynb
 
-Lecture 2 (9/23): HistogramExample.ipynb
+Lecture 2 (9/21): HistogramExample.ipynb
 
-Lecture 3 (9/28): BasicStats.ipynb
+Lecture 3 (asynchronous): BasicStats.ipynb
 
-Lecture 4 (9/30): BasicStats2.ipynb
+Lecture 4 (asynchronous): BasicStats2.ipynb
 
-Lecture 5 (10/5): Inference.ipynb
+Lecture 5 (10/3): Inference.ipynb
 
-Lecture 6 (10/7): Inference2.ipynb
+Lecture 6 (10/5 or 10/7, TBD): Inference2.ipynb
+
 
 Lecture 7 (10/14): Scikit-Learn-Intro.ipynb
 
