@@ -43,12 +43,13 @@ Lecture 5 (10/3): Inference.ipynb
 
 Lecture 6 (10/5 or 10/7, TBD): Inference2.ipynb
 
+Lecture 7 (10/10, 10/12, or 10/14 TBD): Scikit-Learn-Intro.ipynb
 
-Lecture 7 (10/14): Scikit-Learn-Intro.ipynb
 
-Lecture 8 (10/19): KernelDensityEstimation.ipynb and NearestNeighbor.ipynb
+Lecture 8 (10/17): KernelDensityEstimation.ipynb and NearestNeighbor.ipynb
 
-Lecture 9 (10/21): MixtureModel.ipynb and Clustering.ipynb
+Lecture 9 (10/19): MixtureModel.ipynb and Clustering.ipynb
+
 
 Lecture 10 (10/26): DimensionReduction.ipynb
 
