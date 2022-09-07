@@ -31,47 +31,45 @@ If you have any interest in using these materials for your own Machine Learning 
 
 ## Schedule
 
-Lecture 1 (9/19): Motivation.ipynb and InitialSetup.ipynb
+Lecture 1 (9/19, Monday): Motivation.ipynb and InitialSetup.ipynb
 
-Lecture 2 (9/21): HistogramExample.ipynb
+Lecture 2 (9/21, Wednesday): HistogramExample.ipynb
 
 Lecture 3 (asynchronous): BasicStats.ipynb
 
 Lecture 4 (asynchronous): BasicStats2.ipynb
 
-Lecture 5 (10/3): Inference.ipynb
+Lecture 5 (10/3, Monday): Inference.ipynb
 
-Lecture 6 (10/5 or 10/7, TBD): Inference2.ipynb
+Lecture 6 (10/5, Wednesday or 10/7, Friday; TBD): Inference2.ipynb
 
-Lecture 7 (10/10, 10/12, or 10/14 TBD): Scikit-Learn-Intro.ipynb
+Lecture 7 (10/10, Monday, or 10/14, Friday; TBD): Scikit-Learn-Intro.ipynb
 
+Lecture 8 (10/17, Monday): DensityEstimation.ipynb
 
-Lecture 8 (10/17): KernelDensityEstimation.ipynb and NearestNeighbor.ipynb
+Lecture 9 (10/19, Wednesday; TBC): DensityEstimation2andClustering.ipynb
 
-Lecture 9 (10/19): MixtureModel.ipynb and Clustering.ipynb
+Lecture 10 (10/24, Monday): DimensionReduction.ipynb
 
+Lecture 11 (10/28, Friday): NonlinearDimensionReduction.ipynb
 
-Lecture 10 (10/26): DimensionReduction.ipynb
+Lecture 12 (10/31, Monday): Regression.ipynb
 
-Lecture 11 (10/28): NonlinearDimensionReduction.ipynb
+Lecture 13 (11/2, Wednesday): Regression2.ipynb
 
-Lecture 12 (11/2): Regression.ipynb
+Lecture 14 (11/7, Monday): Classification.ipynb
 
-Lecture 13 (11/4): Regression2.ipynb
+Lecture 15 (11/11, Friday): Classification2.ipynb
 
-Lecture 14 (11/9): Classification.ipynb
+Lecture 16 (11/14, Monday): NeuralNetworks.ipynb
 
-Lecture 15 (11/11): Classification2.ipynb
+Lecture 17 (11/18, Friday): NeuralNetworks2.ipynb
 
-Lecture 16 (11/16): NeuralNetworks.ipynb
+Lecture 18 (11/21, Monday): TensorFlow.ipynb
 
-Lecture 17 (11/18): NeuralNetworks2.ipynb
+Lecture 19 (11/28, Monday): TimeSeries.ipynbp
 
-Lecture 18 (11/23): TensorFlow.ipynb
-
-Lecture 19 (11/30): TimeSeries.ipynbp
-
-Lecture 20 (12/2): TimeSeries2.ipynb
+Lecture 20 (11/30, Wednesday; TBC): TimeSeries2.ipynb
 
 ## Older Versions
 Note that this repository is constantly being updated from year to year. You can find links to the older versions of this repository used in previous years below:
