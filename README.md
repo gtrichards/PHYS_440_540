@@ -73,3 +73,6 @@ Lecture 19 (11/30): TimeSeries.ipynbp
 
 Lecture 20 (12/2): TimeSeries2.ipynb
 
+## Older Versions
+Note that this repository is constantly being updated from year to year. You can find links to the older versions of this repository used in previous years below:
+- **2020**: https://github.com/gtrichards/PHYS_440_540/tree/v2020
