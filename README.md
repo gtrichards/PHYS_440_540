@@ -51,7 +51,7 @@ Lecture 9 (10/19, Wednesday; TBC): DensityEstimation2andClustering.ipynb
 
 Lecture 10 (10/24, Monday): DimensionReduction.ipynb
 
-Lecture 11 (10/28, Friday): NonlinearDimensionReduction.ipynb
+Lecture 11 (10/28, Friday): DimensionReduction2.ipynb
 
 Lecture 12 (10/31, Monday): Regression.ipynb
 
