@@ -22,7 +22,7 @@ Thomas Wiecki, particularly http://twiecki.github.io/blog/2015/11/10/mcmc-sampli
 
 My thanks also to Maher Harb (Drexel University), Liam Coatman (Cambridge), Nathalie Thibert (UWO), and Kevin Footer (Deloitte).
 
-I also acknowledge updates to my own class from [Stephen Taylor's class at Vanderbilt](https://github.com/VanderbiltAstronomy/astr_8070_s21).
+I also acknowledge updates to my own class from [Stephen Taylor's class at Vanderbilt](https://github.com/VanderbiltAstronomy/astr_8070_s22).
 
 I have tried to be careful about properly attributing anything drawn from these resources, but if it isn't clear where something comes from, it is probably there.
 Others are welcome to draw from here for their own Machine Learning courses.  Please send any corrections to gtr@physics.drexel.edu.
