@@ -47,7 +47,7 @@ Lecture 7 (10/10, Monday, or 10/14, Friday; TBD): Scikit-Learn-Intro.ipynb
 
 Lecture 8 (10/17, Monday): DensityEstimation.ipynb
 
-Lecture 9 (10/19, Wednesday): DensityEstimation2andClustering.ipynb
+Lecture 9 (10/19, Wednesday): DensityEstimation2.ipynb
 
 Lecture 10 (10/24, Monday): DimensionReduction.ipynb
 
