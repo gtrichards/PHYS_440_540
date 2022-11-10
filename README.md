@@ -69,7 +69,7 @@ Lecture 18 (11/21, Monday): TensorFlow.ipynb
 
 Lecture 19 (11/28, Monday): TimeSeries.ipynbp
 
-Lecture 20 (11/30, Wednesday; TBC): TimeSeries2.ipynb
+Lecture 20 (12/2, Friday): TimeSeries2.ipynb
 
 ## Older Versions
 Note that this repository is constantly being updated from year to year. You can find links to the older versions of this repository used in previous years below:
