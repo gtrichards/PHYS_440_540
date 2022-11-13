@@ -61,11 +61,11 @@ Lecture 14 (11/7, Monday): Classification.ipynb
 
 Lecture 15 (11/11, Friday): Classification2.ipynb
 
-Lecture 16 (11/14, Monday): NeuralNetworks.ipynb
+Lecture 16 (11/14, Monday): Classification3.ipynb
 
-Lecture 17 (11/18, Friday): NeuralNetworks2.ipynb
+Lecture 17 (11/18, Friday): NeuralNetworksIntegrated.ipynb
 
-Lecture 18 (11/21, Monday): TensorFlow.ipynb
+Lecture 18 (11/21, Monday): NeuralNetworksIntegrated2.ipynb
 
 Lecture 19 (11/28, Monday): TimeSeries.ipynbp
 
