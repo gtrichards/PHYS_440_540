@@ -74,3 +74,4 @@ Lecture 20 (12/2, Friday): TimeSeries2.ipynb
 ## Older Versions
 Note that this repository is constantly being updated from year to year. You can find links to the older versions of this repository used in previous years below:
 - **2020**: https://github.com/gtrichards/PHYS_440_540/tree/v2020
+- **2022**: https://github.com/gtrichards/PHYS_440_540/tree/v2022
