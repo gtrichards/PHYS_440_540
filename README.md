@@ -20,9 +20,9 @@ Jo Bovy (University of Toronto), particularly http://astro.utoronto.ca/~bovy/tea
 
 Thomas Wiecki, particularly http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/
 
-My thanks also to Maher Harb (Drexel University), Liam Coatman (Cambridge), Nathalie Thibert (UWO), and Kevin Footer (Deloitte).
+My thanks also to Maher Harb (Drexel University), Liam Coatman (Cambridge), Nathalie Thibert (UWO), and Kevin Footer (Deloitte).  Note that some of the links above are broken, but I've left them so as to at least attempt to give proper credit for use of those resources.
 
-I also acknowledge updates to my own class from [Stephen Taylor's class at Vanderbilt](https://github.com/VanderbiltAstronomy/astr_8070_s22).
+I also acknowledge updates to my own class from [Stephen Taylor's class at Vanderbilt](https://github.com/VanderbiltAstronomy/astr_8070_s24).
 
 I have tried to be careful about properly attributing anything drawn from these resources, but if it isn't clear where something comes from, it is probably there.
 Others are welcome to draw from here for their own Machine Learning courses.  Please send any corrections to gtr@physics.drexel.edu.
@@ -31,45 +31,45 @@ If you have any interest in using these materials for your own Machine Learning 
 
 ## Schedule
 
-Lecture 1 (9/19, Monday): Motivation.ipynb and InitialSetup.ipynb
+Lecture 1 (9/23, Monday): Motivation.ipynb and InitialSetup.ipynb
 
-Lecture 2 (9/21, Wednesday): HistogramExample.ipynb
+Lecture 2 (9/25, Wednesday): HistogramExample.ipynb
 
-Lecture 3 (asynchronous): BasicStats.ipynb
+Lecture 3 (9/30, Monday): BasicStats.ipynb
 
-Lecture 4 (asynchronous): BasicStats2.ipynb
+Lecture 4 (10/2, Wednesday): BasicStats2.ipynb
 
-Lecture 5 (10/3, Monday): Inference.ipynb
+Lecture 5 (10/7, Monday): Inference.ipynb
 
-Lecture 6 (10/5, Wednesday or 10/7, Friday; TBD): Inference2.ipynb
+Lecture 6 (10/9, Wednesday): Inference2.ipynb
 
-Lecture 7 (10/10, Monday, or 10/14, Friday; TBD): Scikit-Learn-Intro.ipynb
+Lecture 7 (10/16, Wednesday): Scikit-Learn-Intro.ipynb
 
-Lecture 8 (10/17, Monday): DensityEstimation.ipynb
+Lecture 8 (10/21, Monday): DensityEstimation.ipynb
 
-Lecture 9 (10/19, Wednesday): DensityEstimation2.ipynb
+Lecture 9 (10/23, Wednesday): DensityEstimation2.ipynb
 
-Lecture 10 (10/24, Monday): DimensionReduction.ipynb
+Lecture 10 (10/28, Monday): DimensionReduction.ipynb
 
-Lecture 11 (10/28, Friday): DimensionReduction2.ipynb
+Lecture 11 (10/30, Friday): DimensionReduction2.ipynb
 
-Lecture 12 (10/31, Monday): Regression.ipynb
+Lecture 12 (11/4, Monday): Regression.ipynb
 
-Lecture 13 (11/2, Wednesday): Regression2.ipynb
+Lecture 13 (11/6, Wednesday): Regression2.ipynb
 
-Lecture 14 (11/7, Monday): Classification.ipynb
+Lecture 14 (11/11, Monday): Classification.ipynb
 
-Lecture 15 (11/11, Friday): Classification2.ipynb
+Lecture 15 (11/13, Friday): Classification2.ipynb
 
-Lecture 16 (11/14, Monday): Classification3.ipynb
+Lecture 16 (11/18, Monday): Classification3.ipynb
 
-Lecture 17 (11/18, Friday): NeuralNetworksIntegrated.ipynb
+Lecture 17 (11/20, Friday): NeuralNetworksIntegrated.ipynb
 
-Lecture 18 (11/21, Monday): NeuralNetworksIntegrated2.ipynb
+Lecture 18 (11/22, Monday): NeuralNetworksIntegrated2.ipynb
 
-Lecture 19 (11/28, Monday): TimeSeries.ipynbp
+Lecture 19 (12/2, Monday): TimeSeries.ipynbp
 
-Lecture 20 (12/2, Friday): TimeSeries2.ipynb
+Lecture 20 (12/4, Friday): TimeSeries2.ipynb
 
 ## Older Versions
 Note that this repository is constantly being updated from year to year. You can find links to the older versions of this repository used in previous years below:
