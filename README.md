@@ -51,7 +51,7 @@ Lecture 9 (10/23, Wednesday): DensityEstimation2.ipynb
 
 Lecture 10 (10/28, Monday): DimensionReduction.ipynb
 
-Lecture 11 (10/30, Friday): DimensionReduction2.ipynb
+Lecture 11 (10/30, Wednesday): DimensionReduction2.ipynb
 
 Lecture 12 (11/4, Monday): Regression.ipynb
 
@@ -59,17 +59,17 @@ Lecture 13 (11/6, Wednesday): Regression2.ipynb
 
 Lecture 14 (11/11, Monday): Classification.ipynb
 
-Lecture 15 (11/13, Friday): Classification2.ipynb
+Lecture 15 (11/13, Wednesday): Classification2.ipynb
 
 Lecture 16 (11/18, Monday): Classification3.ipynb
 
-Lecture 17 (11/20, Friday): NeuralNetworksIntegrated.ipynb
+Lecture 17 (11/20, Wednesday): NeuralNetworksIntegrated.ipynb
 
 Lecture 18 (11/22, Monday): NeuralNetworksIntegrated2.ipynb
 
 Lecture 19 (12/2, Monday): TimeSeries.ipynbp
 
-Lecture 20 (12/4, Friday): TimeSeries2.ipynb
+Lecture 20 (12/4, Wednesday): TimeSeries2.ipynb
 
 ## Older Versions
 Note that this repository is constantly being updated from year to year. You can find links to the older versions of this repository used in previous years below:
